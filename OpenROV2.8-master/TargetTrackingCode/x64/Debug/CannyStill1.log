@@ -1,2 +1,24 @@
-﻿  CannyStill1.vcxproj -> C:\Users\1111\Documents\NucDistance\OpenROV2.8-master\TargetTrackingCode\x64\Debug\CannyStill1.exe
+﻿  Source.cpp
+c:\users\1111\documents\nucdistance\openrov2.8-master\targettrackingcode\source.cpp(61): warning C4474: 'sprintf' : too many arguments passed for format string
+  c:\users\1111\documents\nucdistance\openrov2.8-master\targettrackingcode\source.cpp(61): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\1111\documents\nucdistance\openrov2.8-master\targettrackingcode\source.cpp(62): warning C4474: 'sprintf' : too many arguments passed for format string
+  c:\users\1111\documents\nucdistance\openrov2.8-master\targettrackingcode\source.cpp(62): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\1111\documents\nucdistance\openrov2.8-master\targettrackingcode\source.cpp(63): warning C4474: 'sprintf' : too many arguments passed for format string
+  c:\users\1111\documents\nucdistance\openrov2.8-master\targettrackingcode\source.cpp(63): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\1111\documents\nucdistance\openrov2.8-master\targettrackingcode\source.cpp(64): warning C4474: 'sprintf' : too many arguments passed for format string
+  c:\users\1111\documents\nucdistance\openrov2.8-master\targettrackingcode\source.cpp(64): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\1111\documents\nucdistance\openrov2.8-master\targettrackingcode\source.cpp(65): warning C4474: 'sprintf' : too many arguments passed for format string
+  c:\users\1111\documents\nucdistance\openrov2.8-master\targettrackingcode\source.cpp(65): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\1111\documents\nucdistance\openrov2.8-master\targettrackingcode\source.cpp(66): warning C4474: 'sprintf' : too many arguments passed for format string
+  c:\users\1111\documents\nucdistance\openrov2.8-master\targettrackingcode\source.cpp(66): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\1111\documents\nucdistance\openrov2.8-master\targettrackingcode\source.cpp(123): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\1111\documents\nucdistance\openrov2.8-master\targettrackingcode\source.cpp(139): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\1111\documents\nucdistance\openrov2.8-master\targettrackingcode\source.cpp(140): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\1111\documents\nucdistance\openrov2.8-master\targettrackingcode\source.cpp(174): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\1111\documents\nucdistance\openrov2.8-master\targettrackingcode\source.cpp(186): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\1111\documents\nucdistance\openrov2.8-master\targettrackingcode\source.cpp(187): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\1111\documents\nucdistance\openrov2.8-master\targettrackingcode\source.cpp(162): warning C4101: 'x': unreferenced local variable
+c:\users\1111\documents\nucdistance\openrov2.8-master\targettrackingcode\source.cpp(241): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\1111\documents\nucdistance\openrov2.8-master\targettrackingcode\source.cpp(242): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  CannyStill1.vcxproj -> C:\Users\1111\Documents\NucDistance\OpenROV2.8-master\TargetTrackingCode\x64\Debug\CannyStill1.exe
   CannyStill1.vcxproj -> C:\Users\1111\Documents\NucDistance\OpenROV2.8-master\TargetTrackingCode\x64\Debug\CannyStill1.pdb (Partial PDB)

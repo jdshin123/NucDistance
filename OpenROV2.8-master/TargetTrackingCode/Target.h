@@ -22,6 +22,8 @@ public:
 	void setHSVmin(Scalar min);
 	void setHSVmax(Scalar max);
 
+	void setAngle(double a);
+	double getAngle();
 	string getType() { return type; }
 	void setType(string t) { type = t; }
 
@@ -32,11 +34,15 @@ public:
 
 		Colour = c;
 	}
+	
+
 
 	~Target(void);
 private:
 	int xPosition;
 	int yPosition;
+	double angle;
+
 	Scalar HSVmin, HSVmax;
 	Scalar Colour;
 	string type;
